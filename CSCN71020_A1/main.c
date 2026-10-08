@@ -3,6 +3,7 @@
 void printWelcomeMenu();
 void printOptions();
 void add();
+void subtract();
 
 
 void main() {
@@ -20,6 +21,8 @@ void main() {
 	{
 	case 1:
 		add();
+	case 2:
+		subtract();
 	}
 
 }
@@ -46,4 +49,7 @@ void add() {
 	printf("%lf + %lf = %lf\n", num1, num2, result);
 }
 
-lsadhjflkjasdlfa
+void subtract() 
+	{
+	printf("Wrong function");
+	}
