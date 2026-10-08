@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fishb\\source\\repos\\CSCN71020---Assignment-1\\",
+  "WorkspaceRootPath": "C:\\Git Saved Files\\My Projects\\Conestoga S1\\CSCN71020\\Assignment 1\\CSCN71020_A1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73430FD0-FE28-4C04-A685-0CD83DBE45C4}|CSCN71020_A1\\CSCN71020_A1.vcxproj|C:\\Users\\fishb\\source\\repos\\CSCN71020---Assignment-1\\CSCN71020_A1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{73430FD0-FE28-4C04-A685-0CD83DBE45C4}|CSCN71020_A1\\CSCN71020_A1.vcxproj|C:\\Git Saved Files\\My Projects\\Conestoga S1\\CSCN71020\\Assignment 1\\CSCN71020_A1\\CSCN71020_A1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{73430FD0-FE28-4C04-A685-0CD83DBE45C4}|CSCN71020_A1\\CSCN71020_A1.vcxproj|solutionrelative:CSCN71020_A1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\fishb\\source\\repos\\CSCN71020---Assignment-1\\CSCN71020_A1\\main.c",
+              "DocumentMoniker": "C:\\Git Saved Files\\My Projects\\Conestoga S1\\CSCN71020\\Assignment 1\\CSCN71020_A1\\CSCN71020_A1\\main.c",
               "RelativeDocumentMoniker": "CSCN71020_A1\\main.c",
-              "ToolTip": "C:\\Users\\fishb\\source\\repos\\CSCN71020---Assignment-1\\CSCN71020_A1\\main.c",
+              "ToolTip": "C:\\Git Saved Files\\My Projects\\Conestoga S1\\CSCN71020\\Assignment 1\\CSCN71020_A1\\CSCN71020_A1\\main.c",
               "RelativeToolTip": "CSCN71020_A1\\main.c",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-10-08T21:05:08.93Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }
